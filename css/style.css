@@ -1,0 +1,43 @@
+h1{
+	font-family: 'Special Elite', cursive;
+}
+hr{
+	color:black;
+	width: 220px;
+	margin-left: 0px;
+	
+}
+div {
+	position: relative;
+	height: 20em;
+	width: 20em;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	border-style: solid;
+	border-color: #352359
+}
+
+.photo{
+	background-size: 20em 20em;
+	float: left;
+}
+#two{
+	background-image: url(../img/afterclimb.jpg);
+}
+#one{
+	background-image: url(../img/boulder.jpg);
+}
+#three{
+	background-image: url(../img/climbingshoes.jpg)
+}
+#four{
+	background-image: url(../img/gradeisnot.jpg);
+
+}
+#five{background-image: url(../img/howlookafter.jpg);
+
+}
+#six{
+	background-image: url(../img/myhands.jpg);
+
+}
